@@ -1,6 +1,6 @@
 # IMDb Analysis
 
-This small repository hosts my take on the classic IMDb movie review
+This small repository hosts my take on the 100k IMDb movie review
 sentiment analysis and classification problem.
 
 It also hosts a recommendation engine study based on IMDb metadata, the movie
